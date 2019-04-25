@@ -1,0 +1,76 @@
+{
+  "presentation": [
+    {
+      "title": "Presentation1",
+      "timeSlot": "12:00 - 12:30",
+      "day": "Monday",
+      "image_url": ""
+    },
+    {
+      "title": "Presentation2",
+      "timeSlot": "12:30 - 13:00",
+      "day": "Monday",
+      "image_url": ""
+    },
+    {
+      "title": "Presentation3",
+      "timeSlot": "13:00 - 13:30",
+      "day": "Monday",
+      "image_url": ""
+    },
+    {
+      "title": "Presentation4",
+      "timeSlot": "13:30 - 14:00",
+      "day": "Monday",
+      "image_url": ""
+    },
+    {
+      "title": "Presentation1",
+      "timeSlot": "12:00 - 12:30",
+      "day": "Tuesday",
+      "image_url": ""
+    },
+    {
+      "title": "Presentation2",
+      "timeSlot": "12:30 - 13:00",
+      "day": "Tuesday",
+      "image_url": ""
+    },
+    {
+      "title": "Presentation3",
+      "timeSlot": "13:00 - 13:30",
+      "day": "Tuesday",
+      "image_url": ""
+    },
+    {
+      "title": "Presentation4",
+      "timeSlot": "13:30 - 14:00",
+      "day": "Tuesday",
+      "image_url": ""
+    },
+    {
+      "title": "Presentation1",
+      "timeSlot": "12:00 - 12:30",
+      "day": "Wednesday",
+      "image_url": ""
+    },
+    {
+      "title": "Presentation2",
+      "timeSlot": "12:30 - 13:00",
+      "day": "Wednesday",
+      "image_url": ""
+    },
+    {
+      "title": "Presentation3",
+      "timeSlot": "13:00 - 13:30",
+      "day": "Wednesday",
+      "image_url": ""
+    },
+    {
+      "title": "Presentation4",
+      "timeSlot": "13:30 - 14:00",
+      "day": "Wednesday",
+      "image_url": ""
+    }
+  ]
+}
