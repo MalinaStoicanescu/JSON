@@ -1,75 +1,75 @@
 {
   "presentation": [
     {
-      "title": "Presentation1",
-      "timeSlot": "12:00 - 12:30",
-      "day": "Monday",
+      "title": "Antrenor1",
+      "timeSlot": "10:00 - 20:00",
+      "day": "L - V",
       "image_url": ""
     },
     {
-      "title": "Presentation2",
-      "timeSlot": "12:30 - 13:00",
-      "day": "Monday",
+      "title": "Antrenor2",
+      "timeSlot": "08:00 - 16:00",
+      "day": "M - V",
       "image_url": ""
     },
     {
-      "title": "Presentation3",
-      "timeSlot": "13:00 - 13:30",
-      "day": "Monday",
+      "title": "Antrenor3",
+      "timeSlot": "10:00 - 16:00",
+      "day": "S - D",
       "image_url": ""
     },
     {
-      "title": "Presentation4",
-      "timeSlot": "13:30 - 14:00",
-      "day": "Monday",
+      "title": "Antrenor4",
+      "timeSlot": "13:00 - 15:00",
+      "day": "J - V",
       "image_url": ""
     },
     {
-      "title": "Presentation1",
-      "timeSlot": "12:00 - 12:30",
-      "day": "Tuesday",
+      "title": "Antrenor5",
+      "timeSlot": "12:00 - 21:30",
+      "day": "S - D",
       "image_url": ""
     },
     {
-      "title": "Presentation2",
-      "timeSlot": "12:30 - 13:00",
-      "day": "Tuesday",
+      "title": "Antrenor6",
+      "timeSlot": "15:20 - 17:20",
+      "day": "M-M",
       "image_url": ""
     },
     {
-      "title": "Presentation3",
-      "timeSlot": "13:00 - 13:30",
-      "day": "Tuesday",
+      "title": "Antrenor7",
+      "timeSlot": "18:00 - 22:00",
+      "day": "J - V",
       "image_url": ""
     },
     {
-      "title": "Presentation4",
-      "timeSlot": "13:30 - 14:00",
-      "day": "Tuesday",
+      "title": "Antrenor8",
+      "timeSlot": "11:00 - 18:30",
+      "day": "S - D",
       "image_url": ""
     },
     {
-      "title": "Presentation1",
-      "timeSlot": "12:00 - 12:30",
-      "day": "Wednesday",
+      "title": "Antrenor9",
+      "timeSlot": "7:00 - 21:00",
+      "day": "S - D",
       "image_url": ""
     },
     {
-      "title": "Presentation2",
-      "timeSlot": "12:30 - 13:00",
-      "day": "Wednesday",
+      "title": "Antrenor10",
+      "timeSlot": "10:00 - 14:00",
+      "day": "L - D",
       "image_url": ""
     },
     {
-      "title": "Presentation3",
-      "timeSlot": "13:00 - 13:30",
-      "day": "Wednesday",
+      "title": "Antrenor11",
+      "timeSlot": "09:00 - 19:00",
+      "day": "M - V",
       "image_url": ""
     },
     {
-      "title": "Presentation4",
-      "timeSlot": "13:30 - 14:00",
-      "day": "Wednesday",
+      "title": "Antrenor12",
+      "timeSlot": "09:30 - 14:00",
+      "day": "V - D,
       "image_url": ""
     }
   ]
